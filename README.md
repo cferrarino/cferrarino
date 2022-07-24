@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Chiara
+___
+##### An aspiring ReactJs developer from Argentina.
+
+⚙️ Working regularly with HTML5, CSS3, Sass, JavaScript and ReactJs.  
+🌱 Currently learning about TypeScript and Redux  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
 
 <!--
 **cferrarino/cferrarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
