@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Chiara
 ___
-##### An aspiring ReactJs developer from Argentina.
+#### An aspiring ReactJs developer from Argentina.
 
 ⚙️ Working regularly with HTML5, CSS3, Sass, JavaScript and ReactJs.  
 🌱 Currently learning about TypeScript and Redux  
