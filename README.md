@@ -2,8 +2,8 @@
 ___
 #### An aspiring ReactJs developer from Argentina.
 
-⚙️ Working regularly with HTML5, CSS3, JavaScript and ReactJs.  
-🌱 Currently learning about TypeScript and Redux.  
+⚙️ Working regularly with React, TypesCript and Tailwind.  
+🌱 Currently learning about NodeJs.  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
 
 <!--
