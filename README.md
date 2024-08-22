@@ -3,7 +3,9 @@ ___
 #### A React developer from Argentina.
 
 ⚙️ Working regularly with React, TypesCript and Tailwind [@Globant](https://globant.com)!
+
 🌱 Currently learning NodeJs.
+
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
 
 <!--
