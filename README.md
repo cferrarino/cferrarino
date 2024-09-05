@@ -4,6 +4,7 @@ ___
 
 - ⚙️ Working regularly with React, TypeScript and Tailwind [@Globant](https://globant.com)!
 - 🌱 Currently learning NextJs.
+- 🔭 Lately into goofing around with Blender :)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
 
 <!--
