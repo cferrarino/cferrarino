@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Chiara
 ___
-#### A React developer from Argentina.
+#### A React dev from Argentina.
 
 - ⚙️ Working regularly with React, TypeScript and Tailwind [@Globant](https://globant.com)!
-- 🌱 Currently learning NodeJs.
+- 🌱 Currently learning NextJs.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chiara-ferrarino-juarez/)!  
 
 <!--
